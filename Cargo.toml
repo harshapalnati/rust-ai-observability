@@ -1,0 +1,10 @@
+[workspace]
+members = [
+    "log-collector",
+    "log-processor",
+    "storage-service",
+    "search-service",
+    "alert-service",
+    "api-gateway",
+    "common"
+]
